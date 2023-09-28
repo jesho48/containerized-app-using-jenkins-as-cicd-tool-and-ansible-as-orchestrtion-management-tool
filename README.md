@@ -1,1 +1,1 @@
-# containerized-app-using-jenkins-as-cicd-tool-and-ansible-as-orchestrtion-management-tool
+# containerized-app-using-jenkins-as-cicd-tool-and-ansible-as-orchestration-management-tool
